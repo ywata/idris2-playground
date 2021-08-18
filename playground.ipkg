@@ -1,0 +1,9 @@
+package playground
+
+depends = idris2, base, contrib
+
+sourcedir = "src"
+
+main = Main
+executable = playground
+
